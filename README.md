@@ -7,7 +7,7 @@ Veronyka's domain.
 
 ## Technologies?
 
-* Game engine? Phaser enough? Something advanced? TODO research
+* Game engine? Phaser enough? Something advanced? TODO research: best 3D - babylonjs, three.js - good 3D but primarily not for games but capable of - viz medal of honor; pixi - only webgl, not games but great; ImpactJS - old; GameMaker - not OS, mainly editor than game engine/language, just shit; Playcanvas - 3d, good features, but I don't like it's not prima facie os; Gdevelop - only drag and drop editor, no programming, only 2d
 * RStudio Server - TODO research, jak/v jake podobe z nej jdou ziskavat data, jake to ma API
 * R - for computing math/data utilized then in educational math quizzes
 
